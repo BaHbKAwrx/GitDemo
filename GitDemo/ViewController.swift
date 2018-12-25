@@ -14,13 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Another print statement")
+        print("Hi girls!")
         
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
 
 
 }
